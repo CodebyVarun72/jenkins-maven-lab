@@ -1,0 +1,3 @@
+@echo off
+echo Running the application...
+java -jar target\my-app-1.0-SNAPSHOT.jar
